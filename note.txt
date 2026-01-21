@@ -1,1 +1,1 @@
-pls open page.html and click anywhere on the screen
+pls open index.html and click anywhere on the screen
